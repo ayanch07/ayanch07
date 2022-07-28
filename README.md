@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @ayanch07
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ... 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Ayan Choubisa
+- 👀 I’m interested in Artificial Intelligence and Data Science
+- 🌱 I’m currently learning GANs
+- 💞️ I’m looking to collaborate
+- 📫 How to reach me : @AyanChoubisa on twitter
 
 <!---
 ayanch07/ayanch07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
